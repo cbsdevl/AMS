@@ -1,0 +1,15 @@
+
+ETS-AMS BY BLACK
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Animation Login Details**
+
+Email   : Animation@ets
+Password: pass123
